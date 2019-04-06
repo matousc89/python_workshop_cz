@@ -1,3 +1,3 @@
 ## Workshop 1
 
-[Hlavní soubor](workshop/workshop01.ipynb)
+[Hlavní soubor](workshop1/workshop01.ipynb)
