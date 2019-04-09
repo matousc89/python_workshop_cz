@@ -8,4 +8,4 @@
 
 [Teorie](workshop01_teorie.ipynb)
 
-[Příklady](workshop02_priklady.ipynb)
+[Příklady](workshop01_priklady.ipynb)
