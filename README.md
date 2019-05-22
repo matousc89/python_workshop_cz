@@ -19,3 +19,13 @@
 
 [Teorie / příklady](workshop02_teorie.ipynb)
 
+
+## Workshop 3 - webscraping
+
+[Hlavní soubor](workshop03.ipynb)
+
+### Doplňující podklady
+
+[HTTP požadavky](workshop03_http_requests.ipynb)
+
+[Parsování](workshop03_parsing.ipynb)
